@@ -4,9 +4,7 @@ An Apple Music–style desktop mini player — a floating pill with playback con
 
 ## Demo
 
-<!-- Para el player: editá este README en github.com (✏️), arrastrá `demo.mp4`
-     en la línea de abajo, borrá este comentario y dejá la URL
-     (https://github.com/user-attachments/assets/…) que GitHub genera sola. -->
+https://github.com/user-attachments/assets/a7bddab1-b014-4547-95ed-c3750196caf0
 
 ## Stack
 
