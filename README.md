@@ -2,6 +2,12 @@
 
 An Apple Music–style desktop mini player — a floating pill with playback controls, now-playing info, a contextual dropdown, and an animated progress bar. Every interactive surface animates, the dropdown reads as a native macOS context menu, and the materials use backdrop blur with layered shadows.
 
+## Demo
+
+<!-- Para el player: editá este README en github.com (✏️), arrastrá `demo.mp4`
+     en la línea de abajo, borrá este comentario y dejá la URL
+     (https://github.com/user-attachments/assets/…) que GitHub genera sola. -->
+
 ## Stack
 
 - Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4
